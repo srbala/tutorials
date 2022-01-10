@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/proj/srb/quickstart",
+	"sourceRoot": "C:/proj/srb/tutorials",
 	"sources": [
 		"stdin"
 	],
